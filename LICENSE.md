@@ -6,19 +6,19 @@ Copywight (c) 2025 ZeroPvlse Owganization (≽ᆺ≼) and authow: n0_sh4d3 (◕�
 
 ## Huggin Pewmission Notice! (づ｡◕‿‿◕｡)づ
 
-Peωmission is heωeby gwanted, fwee of chaωge, to any peωson obtaining a copy of dis softwaωe and associated documentation fiwes ("KittyKat"), to deal in KittyKat wifout westwiction, incwuding wifout wimitation da wights to use, copy, modify, meωge, pubwish, distwibute, subwicense, and/ow sell copies of KittyKat, and to pewmit peωsons to whom KittyKat is fuωnished to do so, subject to da fowwowing conditions:
+Peωmission is heωeby gwanted, fwee of chaωge, to any peωson obtaining a copy of dis softwaωe and associated documentation fiwes ("KittyKit"), to deal in KittyKit wifout westwiction, incwuding wifout wimitation da wights to use, copy, modify, meωge, pubwish, distwibute, subwicense, and/ow sell copies of KittyKit, and to pewmit peωsons to whom KittyKit is fuωnished to do so, subject to da fowwowing conditions:
 
 ## Da Huggin-Kawaii Conditions~ (˶ᵔ ᵕ ᵔ˶)
 
-1. Dis huggin-wicense and copywight notice shaww be incwuded in aww copies ow substantial powtions of KittyKat! (´･ω･`)
+1. Dis huggin-wicense and copywight notice shaww be incwuded in aww copies ow substantial powtions of KittyKit! (´･ω･`)
 
-2. Whenevew using KittyKat, you awe encouwaged (but not wequiwed) to add at weast one kawaii face ow "uwu" in youw code comments~ (optional but appweciated nya~!) (｡♥‿♥｡)
+2. Whenevew using KittyKit, you awe encouwaged (but not wequiwed) to add at weast one kawaii face ow "uwu" in youw code comments~ (optional but appweciated nya~!) (｡♥‿♥｡)
 
-3. If you make something weawwy cool with KittyKat, sending us a huggin scweenshot would make us go (≧◡≦) but it's totawwy optional! Hugs awe nice, nya~ (≧ω≦) ♡
+3. If you make something weawwy cool with KittyKit, sending us a huggin scweenshot would make us go (≧◡≦) but it's totawwy optional! Hugs awe nice, nya~ (≧ω≦) ♡
 
 ## Huggin Discwaimew (ﾉ´ヮ`)ﾉ*: ･ﾟ
 
-KITTYKAT IS PWOVIDED "AS IS", WIFOUT WAWWANTY OF ANY KIND, EXPWESS OW IMPWIED, INCWUDING BUT NOT WIMITED TO DA WAWWANTIES OF MEWCHANTABIWITY, FITNESS FOW A PAWTICUWAR PUWPOSE AND NONINFWINGEMENT. IN NO EVENT SHAWW DA AUTHOWS OW COPYWIGHT HOWDEWS BE WIABWE FOW ANY CWAIM, DAMAGES OW OTHEW WIABIWITY, WHETHEW IN AN ACTION OF CONTWACT, TOWT OW OTHEWWISE, AWISING FWOM, OUT OF OW IN CONNECTION WITH NYARII OW DA USE OW OTHEW DEAWINGS IN NYARII. (｡•́︿•̀｡)
+KITTYKIT IS PWOVIDED "AS IS", WIFOUT WAWWANTY OF ANY KIND, EXPWESS OW IMPWIED, INCWUDING BUT NOT WIMITED TO DA WAWWANTIES OF MEWCHANTABIWITY, FITNESS FOW A PAWTICUWAR PUWPOSE AND NONINFWINGEMENT. IN NO EVENT SHAWW DA AUTHOWS OW COPYWIGHT HOWDEWS BE WIABWE FOW ANY CWAIM, DAMAGES OW OTHEW WIABIWITY, WHETHEW IN AN ACTION OF CONTWACT, TOWT OW OTHEWWISE, AWISING FWOM, OUT OF OW IN CONNECTION WITH NYARII OW DA USE OW OTHEW DEAWINGS IN NYARII. (｡•́︿•̀｡)
 
 ---
 

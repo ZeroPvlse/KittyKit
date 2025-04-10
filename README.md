@@ -1,10 +1,10 @@
-# KittyKat 🌸✨🔐
+# KittyKit 🌸✨🔐
 
 *The cutest pentesting toolkit evew! (≧◡≦) 💕*
 
-## What is KittyKat? OwO
+## What is KittyKit? OwO
 
-KittyKat is a supew kawaii bash script that instawws all the pentesting tools you'll evew need! It makes youw computew the most powewful hakku machine ever, with the added bonus of being extwa cute!!! ૮ ・ﻌ・ ა
+KittyKit is a supew kawaii bash script that instawws all the pentesting tools you'll evew need! It makes youw computew the most powewful hakku machine ever, with the added bonus of being extwa cute!!! ૮ ・ﻌ・ ა
 
 ## Featuwes ✧･ﾟ: *✧･ﾟ:*
 
@@ -26,10 +26,10 @@ KittyKat is a supew kawaii bash script that instawws all the pentesting tools yo
 
 ```bash
 # Clone this wepositowy
-git clone https://github.com/ZeroPvlse/KittyKat.git
+git clone https://github.com/ZeroPvlse/KittyKit.git
 
 # Change to the diwectowy
-cd KittyKat
+cd KittyKit
 
 # Make the script executable
 chmod +x kittykat.sh
@@ -67,7 +67,7 @@ This script is for educational puwposes only! Please use responsibwy and only on
 
 ## Contwibuting (=^･ω･^=)
 
-Feel fwee to make KittyKat even more kawaii by submitting pull wequests! Add moar tools, fix bugs, or enhance the cute factow!
+Feel fwee to make KittyKit even more kawaii by submitting pull wequests! Add moar tools, fix bugs, or enhance the cute factow!
 
 ---
 
