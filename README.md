@@ -1,9 +1,5 @@
-# SHADOW ARSENAL
-
-**Your proof of concept is our postmortem**
-
 ## Overview
-Shadow Arsenal is a comprehensive penetration testing environment setup script designed to quickly prepare Linux systems for security assessments. This powerful automation tool detects your distribution and installs a carefully curated selection of industry-standard security tools across multiple domains.
+Arsenal is a comprehensive penetration testing environment setup script designed to quickly prepare Linux systems for security assessments. This powerful automation tool detects your distribution and installs a carefully curated selection of industry-standard security tools across multiple domains.
 
 ## Features
 - **Distribution Detection**: Automatically identifies and adapts to major Linux distributions (Debian/Ubuntu, Fedora, Arch, OpenSUSE)
